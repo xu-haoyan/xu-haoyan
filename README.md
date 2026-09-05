@@ -1,5 +1,5 @@
 <h1 align="center">Haoyan Xu · 许颢严</h1>
-<p align="center"><b>Robot Learning · Vision-Language-Action · Whole-Body Control · WAM</b></p>
+<p align="center"><b>VLA Algorithm Intern · Robot Learning · Vision-Language-Action · Whole-Body Control · WAM</b></p>
 
 <p align="center">
   <a href="mailto:1006112909xhy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1006112909xhy%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
@@ -28,7 +28,7 @@ I am a master's student in **Electronic Information at Harbin Institute of Techn
 | **Pi05 Bimanual Manipulation** | PiPER teleoperation and dataset preparation, Pi05 fine-tuning, and closed-loop real-robot evaluation. |
 |  | **Pi05 双臂操作**：PiPER 远程操作与数据集构建、Pi05 微调，以及真实机器人闭环评测。 |
 | **HIT RoboMaster Legged-Wheel Reinforcement Learning** | End-to-end teacher-student reinforcement learning architecture for legged-wheel robot control. [Repository](https://github.com/xu-haoyan/hit_rm26_balance_infantry) |
-|  | **HIT RoboMaster 轮足强化学习**：面向轮足机器人控制的端到端教师-学生强化学习架构。[仓库](https://github.com/xu-haoyan/hit_rm26_balance_infantry) |
+|  | **HIT RoboMaster 轮足强化学习**：面向轮足机器人控制的端到端教师-学生强化学习架构。 |
 | **Quadruped-Manipulator Grounding Downlead Inspection** · *In Progress* | Master's graduation project: developing a quadruped robot equipped with a manipulator for autonomous grounding downlead inspection, combining mobile locomotion, arm-based interaction, and task-oriented visual perception. |
 |  | **四足机械臂接地引下线检测** · *进行中*：硕士毕业设计，开发搭载机械臂的四足机器人，结合移动行走、机械臂交互和面向任务的视觉感知，实现接地引下线检测。 |
 
@@ -37,19 +37,15 @@ I am a master's student in **Electronic Information at Harbin Institute of Techn
 | Institution | Degree / Major | Period |
 | :--- | :--- | :--- |
 | **Harbin Institute of Technology** | Master's · Electronic Information | Sep 2025 – Jun 2027 (expected) |
+| **哈尔滨工业大学** | 硕士 · 电子信息 | 2025.09 – 2027.06（预计） |
 | **Chongqing University** | Bachelor's · Intelligent Sensing Engineering | Sep 2021 – Jun 2025 |
 | **重庆大学** | 本科 · 智能感知工程 | 2021.09 – 2025.06 |
 
 <!-- Publications: add verified titles, authors, venues, and Paper / Code links here. -->
 
-<details>
-<summary><b>Honors & Awards / 荣誉与奖项</b></summary>
+### Honors & Awards / 荣誉与奖项
 
-- RoboMaster 2026: runner-up, Northern Regional Competition; national top 32.
-- National University Intelligent Vehicle Competition: national second prize.
-- Harbin Institute of Technology: graduate academic scholarship.
-- Chongqing University: outstanding student scholarship and outstanding graduate.
-
-</details>
-
-<p align="center"><sub>Profile layout inspired by <a href="https://github.com/BEPb/BEPb">BEPb</a>.</sub></p>
+- **RoboMaster 2026** — Northern Regional Competition: runner-up; national top 32.
+  **RoboMaster 2026**——北部赛区亚军；全国 32 强。
+- **National University Intelligent Vehicle Competition** — National Second Prize.
+  **全国大学生智能汽车竞赛**——全国二等奖。
