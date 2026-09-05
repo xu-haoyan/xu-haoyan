@@ -4,6 +4,7 @@
 <p align="center">
   <a href="mailto:1006112909xhy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1006112909xhy%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/haoyan-xu-377214434"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Haoyan_Xu-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://xu-haoyan.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-xu--haoyan.github.io-181717?style=flat&logo=githubpages&logoColor=white"></a>
 </p>
 
 ### About Me / 关于我
