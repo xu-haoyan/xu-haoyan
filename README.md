@@ -25,7 +25,7 @@ I am a master's student in **Electronic Information at Harbin Institute of Techn
 | :--- | :--- |
 | **Pi05 Bimanual Manipulation** | PiPER teleoperation and dataset preparation, Pi05 fine-tuning, and closed-loop real-robot evaluation. |
 | **HIT RoboMaster Legged-Wheel Reinforcement Learning** | End-to-end teacher-student reinforcement learning architecture for legged-wheel robot control. [Repository](https://github.com/xu-haoyan/hit_rm26_balance_infantry) |
-| **Quadruped-Manipulator Grounding Downlead Inspection** | Master's graduation project in preparation: a quadruped robot equipped with a manipulator for grounding downlead inspection. |
+| **Quadruped-Manipulator Grounding Downlead Inspection** · *In Progress* | Master's graduation project: developing a quadruped robot equipped with a manipulator for autonomous grounding downlead inspection, combining mobile locomotion, arm-based interaction, and task-oriented visual perception. |
 
 ### Education
 
