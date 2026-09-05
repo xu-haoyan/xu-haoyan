@@ -5,11 +5,13 @@
   <a href="mailto:1006112909xhy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1006112909xhy%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
-### About Me
+### About Me / 关于我
 
 I am a master's student in **Electronic Information at Harbin Institute of Technology**, and a **VLA Algorithm Engineer Intern at Roboparty**. My work focuses on connecting robot learning models with real-world execution: bimanual manipulation, humanoid whole-body control, and sim-to-real transfer.
 
-### Languages & Tools
+我目前就读于**哈尔滨工业大学电子信息专业硕士**，并在 **Roboparty 担任 VLA 算法工程师实习生**。研究与工程工作聚焦于机器人学习、双臂操作、 humanoid 全身控制和 Sim-to-Real。
+
+### Languages & Tools / 编程语言与工具
 
 | Property | Toolkit |
 | :--- | :--- |
@@ -19,25 +21,29 @@ I am a master's student in **Electronic Information at Harbin Institute of Techn
 | **Robot Learning** | ![GR00T](https://img.shields.io/badge/GR00T-76B900?logo=nvidia&logoColor=white) ![Pi series](https://img.shields.io/badge/Pi_Series-FF6F00) ![JEPA-WAM](https://img.shields.io/badge/JEPA--WAM-7C3AED) ![SONIC](https://img.shields.io/badge/SONIC-0288D1) |
 | **Research Focus** | ![VLA](https://img.shields.io/badge/VLA-01A982) ![WAM](https://img.shields.io/badge/WAM-7C3AED) ![Sim2Real](https://img.shields.io/badge/Sim2Real-FAB040) ![Whole-body control](https://img.shields.io/badge/Whole--Body_Control-E91E63) ![Flow Matching](https://img.shields.io/badge/Flow_Matching-3776AB) |
 
-### Engineering Projects
+### Engineering Projects / 工程项目
 
 | Project | My Work |
 | :--- | :--- |
 | **Pi05 Bimanual Manipulation** | PiPER teleoperation and dataset preparation, Pi05 fine-tuning, and closed-loop real-robot evaluation. |
+|  | **Pi05 双臂操作**：PiPER 远程操作与数据集构建、Pi05 微调，以及真实机器人闭环评测。 |
 | **HIT RoboMaster Legged-Wheel Reinforcement Learning** | End-to-end teacher-student reinforcement learning architecture for legged-wheel robot control. [Repository](https://github.com/xu-haoyan/hit_rm26_balance_infantry) |
+|  | **HIT RoboMaster 轮足强化学习**：面向轮足机器人控制的端到端教师-学生强化学习架构。[仓库](https://github.com/xu-haoyan/hit_rm26_balance_infantry) |
 | **Quadruped-Manipulator Grounding Downlead Inspection** · *In Progress* | Master's graduation project: developing a quadruped robot equipped with a manipulator for autonomous grounding downlead inspection, combining mobile locomotion, arm-based interaction, and task-oriented visual perception. |
+|  | **四足机械臂接地引下线检测** · *进行中*：硕士毕业设计，开发搭载机械臂的四足机器人，结合移动行走、机械臂交互和面向任务的视觉感知，实现接地引下线检测。 |
 
-### Education
+### Education / 教育背景
 
 | Institution | Degree / Major | Period |
 | :--- | :--- | :--- |
 | **Harbin Institute of Technology** | Master's · Electronic Information | Sep 2025 – Jun 2027 (expected) |
 | **Chongqing University** | Bachelor's · Intelligent Sensing Engineering | Sep 2021 – Jun 2025 |
+| **重庆大学** | 本科 · 智能感知工程 | 2021.09 – 2025.06 |
 
 <!-- Publications: add verified titles, authors, venues, and Paper / Code links here. -->
 
 <details>
-<summary><b>Honors & Awards</b></summary>
+<summary><b>Honors & Awards / 荣誉与奖项</b></summary>
 
 - RoboMaster 2026: runner-up, Northern Regional Competition; national top 32.
 - National University Intelligent Vehicle Competition: national second prize.
