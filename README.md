@@ -21,7 +21,7 @@ I am a master's student in **Electronic Information at Harbin Institute of Techn
 | **Robotics** | ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white) ![ROS 2](https://img.shields.io/badge/ROS_2-2266AA?logo=ros&logoColor=white) ![PiPER](https://img.shields.io/badge/PiPER_SDK-009688) ![G1](https://img.shields.io/badge/Unitree_G1-555555) |
 | **Simulation** | ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?logo=nvidia&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?logo=nvidia&logoColor=white) ![MuJoCo](https://img.shields.io/badge/MuJoCo-AB47BC) ![RoboTwin](https://img.shields.io/badge/RoboTwin_2.0-0097A7) |
 | **Robot Learning** | ![GR00T](https://img.shields.io/badge/GR00T-76B900?logo=nvidia&logoColor=white) ![Pi series](https://img.shields.io/badge/Pi_Series-FF6F00) ![JEPA-WAM](https://img.shields.io/badge/JEPA--WAM-7C3AED) ![SONIC](https://img.shields.io/badge/SONIC-0288D1) |
-| **Research Focus** | ![VLA](https://img.shields.io/badge/VLA-01A982) ![WAM](https://img.shields.io/badge/WAM-7C3AED) ![Sim2Real](https://img.shields.io/badge/Sim2Real-FAB040) ![Whole-body control](https://img.shields.io/badge/Whole--Body_Control-E91E63) ![Flow Matching](https://img.shields.io/badge/Flow_Matching-3776AB) |
+| **Research Focus** | ![VLA](https://img.shields.io/badge/VLA-01A982) ![WAM](https://img.shields.io/badge/WAM-7C3AED) ![Sim2Real](https://img.shields.io/badge/Sim2Real-FAB040) ![Whole-body control](https://img.shields.io/badge/Whole--Body_Control-E91E63) |
 
 ### Education / 教育背景
 
